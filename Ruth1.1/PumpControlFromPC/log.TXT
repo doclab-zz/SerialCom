@@ -1,0 +1,126 @@
+
+
+User pressed key: s
+
+
+seq1RanOnce =1,Press 5 to clear flag 
+
+
+seq2RanOnce =1,Press 6 to clear flag 
+
+
+seq3RanOnce =1,Press 7 to clear flag 
+
+
+runSeqOnceOnly =0,Press 9 to clear, Press 8 to set 
+
+
+
+User pressed key: 1
+
+
+--START-OF-SEQUENCE-1--
+51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+--END-OF-SEQUENCE-1--
+
+
+User pressed key: 1
+
+
+--START-OF-SEQUENCE-1--
+51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+--END-OF-SEQUENCE-1--
+
+
+User pressed key: 2
+
+
+--START-OF-SEQUENCE-2--
+52 51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+--END-OF-SEQUENCE-2--
+
+
+User pressed key: 2
+
+
+--START-OF-SEQUENCE-2--
+52 51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+--END-OF-SEQUENCE-2--
+
+
+User pressed key: 3
+
+
+--START-OF-SEQUENCE-3--
+53 52 51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+--END-OF-SEQUENCE-3--
+
+
+User pressed key: 3
+
+
+--START-OF-SEQUENCE-3--
+53 52 51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+
+--END-OF-SEQUENCE-3--
+
+
+User pressed key: 4
+
+
+-Running All Sequences
+
+
+-Running  Sequence 1
+
+
+-Running  Sequence 2
+
+
+-Running  Sequence 3
+
+
+-Completed Running All Sequences
+
+
+User pressed key: 4
+
+
+-Running All Sequences
+
+
+-Running  Sequence 1
+
+
+-Running  Sequence 2
+
+
+-Running  Sequence 3
+
+
+-Completed Running All Sequences
+
+
+User pressed key: s
+
+
+seq1RanOnce =1,Press 5 to clear flag 
+
+
+seq2RanOnce =1,Press 6 to clear flag 
+
+
+seq3RanOnce =1,Press 7 to clear flag 
+
+
+runSeqOnceOnly =0,Press 9 to clear, Press 8 to set 
+
+
+
+User pressed key: f
+
